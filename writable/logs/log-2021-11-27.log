@@ -1,0 +1,38 @@
+CRITICAL - 2021-11-27 14:13:50 --> php_network_getaddresses: getaddrinfo failed: Este host não é conhecido. 
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(198): mysqli->__construct('teste.mysql.dba...', 'teste', 'Evi@171195', 'teste')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(193): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 13)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-27 14:14:23 --> php_network_getaddresses: getaddrinfo failed: Este host não é conhecido. 
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(198): mysqli->__construct('teste.mysql.dba...', 'teste', 'Evi@171195', 'teste')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(193): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 14)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-27 14:14:23 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Falha ao analisar a string json, erro: "{0}". in C:\xampp\htdocs\cpanel\system\Format\Exceptions\FormatException.php:9
+Stack trace:
+#0 C:\xampp\htdocs\cpanel\system\Format\JSONFormatter.php(67): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8...')
+#1 C:\xampp\htdocs\cpanel\system\API\ResponseTrait.php(414): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 C:\xampp\htdocs\cpanel\system\API\ResponseTrait.php(134): CodeIgniter\Debug\Exceptions->format(Array)
+#3 C:\xampp\htdocs\cpanel\system\Debug\Exceptions.php(166): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-11-27 14:16:06 --> php_network_getaddresses: getaddrinfo failed: Este host não é conhecido. 
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(198): mysqli->__construct('teste.mysql.dba...', 'teste', 'Evi@171195', 'teste')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(193): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 15)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

@@ -1,0 +1,22 @@
+CRITICAL - 2021-07-31 12:26:25 --> email não é uma regra válida.
+#0 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('email')
+#1 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('EMAIL', 'EMAIL', 'vagner.cerqueir...', Array, Array)
+#2 C:\xampp\htdocs\cpanel\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(72): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(93): App\Controllers\Cli\Cli001->valida_campos()
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#6 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#7 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-07-31 12:28:43 --> email não é uma regra válida.
+#0 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('email')
+#1 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('EMAIL', 'EMAIL', 'vagner.cerqueir...', Array, Array)
+#2 C:\xampp\htdocs\cpanel\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(72): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(93): App\Controllers\Cli\Cli001->valida_campos()
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#6 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#7 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}

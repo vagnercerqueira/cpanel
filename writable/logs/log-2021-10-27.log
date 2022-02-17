@@ -1,0 +1,286 @@
+CRITICAL - 2021-10-27 11:47:09 --> {0} não é uma regra válida.
+#0 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validaBancoDado...')
+#1 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('CODIGO_DB', 'CODIGO_DB', 'liberttelecom', Array, Array)
+#2 C:\xampp\htdocs\cpanel\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(158): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(93): App\Controllers\Cli\Cli001->valida_campos()
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#6 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#7 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-27 11:48:31 --> {0} não é uma regra válida.
+#0 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validaBancoDado...')
+#1 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('CODIGO_DB', 'CODIGO_DB', 'liberttelecom', Array, Array)
+#2 C:\xampp\htdocs\cpanel\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(158): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(93): App\Controllers\Cli\Cli001->valida_campos()
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#6 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#7 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-27 11:50:27 --> {0} não é uma regra válida.
+#0 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validaBancoDado...')
+#1 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('CODIGO_DB', 'CODIGO_DB', 'liberttelecom', Array, Array)
+#2 C:\xampp\htdocs\cpanel\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(158): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(93): App\Controllers\Cli\Cli001->valida_campos()
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#6 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#7 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-27 11:52:29 --> {0} não é uma regra válida.
+#0 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validaBancoDado...')
+#1 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('CODIGO_DB', 'CODIGO_DB', 'liberttelecom', Array, Array)
+#2 C:\xampp\htdocs\cpanel\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(158): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(93): App\Controllers\Cli\Cli001->valida_campos()
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#6 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#7 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-27 11:54:17 --> {0} não é uma regra válida.
+#0 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validaBancoDado...')
+#1 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('CODIGO_DB', 'CODIGO_DB', 'liberttelecom', Array, Array)
+#2 C:\xampp\htdocs\cpanel\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(158): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(93): App\Controllers\Cli\Cli001->valida_campos()
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#6 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#7 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-27 11:55:56 --> {0} não é uma regra válida.
+#0 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validaBancoDado...')
+#1 C:\xampp\htdocs\cpanel\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('CODIGO_DB', 'CODIGO_DB', 'liberttelecom', Array, Array)
+#2 C:\xampp\htdocs\cpanel\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(158): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(93): App\Controllers\Cli\Cli001->valida_campos()
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#6 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#7 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-27 16:29:53 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(200): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 10)
+#2 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-10-27 16:30:14 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(200): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 11)
+#2 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-10-27 16:30:40 --> Undefined variable: conn
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(208): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 208, Array)
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(200): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 12)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 16:31:04 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE `acesso_usuario` (
+  `id` int(11) NOT NULL,
+  `id_usuario` int(1...' at line 16
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(208): mysqli->query('\nCREATE TABLE `...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(200): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 13)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 16:33:22 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\cpanel\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/cli/cli001/cru...')
+#1 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/cli/cli001/cru...')
+#2 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-27 16:33:53 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE `acesso_usuario` (
+  `id` int(11) NOT NULL,
+  `id_usuario` int(1...' at line 16
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(207): mysqli_query(Object(mysqli), '\nCREATE TABLE `...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(200): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 14)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 16:34:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (
+  id int(11) NOT NULL,
+  id_usuario int(11) NOT...' at line 16
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(207): mysqli_query(Object(mysqli), '\nCREATE TABLE a...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(200): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 15)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 16:41:54 --> Class 'App\Controllers\Cli\mysqli' not found
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(200): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 17)
+#2 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-10-27 16:44:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (
+  id int(11) NOT NULL,
+  id_usuario int(11) NOT...' at line 16
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('\nCREATE TABLE a...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 18)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 16:48:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (
+  id int(11) NOT NULL,
+  id_usuario int(11) NOT...' at line 12
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('\nCREATE TABLE a...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 19)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 16:50:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (
+  id int(11) NOT NULL,
+  id_usuario int(11) NOT...' at line 12
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('\nCREATE TABLE a...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 20)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 16:53:15 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (
+  id int(11) NOT NULL,
+  id_usuario int(11) NOT...' at line 12
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 21)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 16:54:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (
+  id int(11) NOT NULL,
+  id_usuario int(11) NOT...' at line 12
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('\nCREATE TABLE a...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 22)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 16:57:23 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (  id int(11) NOT NULL,  id_usuario int(11) NOT N...' at line 1
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 23)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 17:02:50 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (  id int(11) NOT NULL,  id_usuario int(11) NOT N...' at line 1
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 25)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 17:04:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (  id int(11) NOT NULL,  id_usuario int(11) NOT N...' at line 1
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 26)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 17:07:46 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (  id int(11) NOT NULL,  id_usuario int(11) NOT N...' at line 1
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 27)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 17:10:50 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (  id int(11) NOT NULL,  id_usuario int(11) NOT N...' at line 1
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 28)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 17:13:18 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (  id int(11) NOT NULL,  id_usuario int(11) NOT N...' at line 1
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 30)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 17:14:34 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (  id int(11) NOT NULL,  id_usuario int(11) NOT N...' at line 1
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 31)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 17:14:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (  id int(11) NOT NULL,  id_usuario int(11) NOT N...' at line 1
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(209): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 32)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 17:17:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (            id int(11) NOT NULL,            id_u...' at line 1
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(230): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 33)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-27 17:17:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREATE TABLE acesso_usuario (
+            id int(11) NOT NULL,
+            id...' at line 12
+#0 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(230): mysqli->query('CREATE TABLE ac...')
+#1 C:\xampp\htdocs\cpanel\app\Controllers\Cli\Cli001.php(197): App\Controllers\Cli\Cli001->cria_tabelas_db('teste')
+#2 C:\xampp\htdocs\cpanel\app\Controllers\BaseController.php(114): App\Controllers\Cli\Cli001->posIns(Array, 34)
+#3 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(914): App\Controllers\BaseController->crud()
+#4 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cli\Cli001))
+#5 C:\xampp\htdocs\cpanel\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cpanel\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
